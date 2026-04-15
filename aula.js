@@ -48,7 +48,7 @@ console.log(calcularPorcentagem(numerosC, 10));
 
 //////// programa /////////////
 
-const pessoa()  [
+const pessoa =  [
     {nome: "Maria", idade: "25", cidade: "Caxias do Sul"},
 ]
 console.log(" A cliente $(nome) possui $(idade) anos, e mora atualmente em $(cidade)");
